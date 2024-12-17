@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+gCFjfVCtk8=",
+  "dgSpecHash": "2il213qmRWA=",
   "success": true,
-  "projectFilePath": "C:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj",
+  "projectFilePath": "c:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

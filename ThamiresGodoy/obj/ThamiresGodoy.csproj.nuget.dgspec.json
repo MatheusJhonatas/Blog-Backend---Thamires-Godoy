@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj": {}
+    "c:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj": {
+    "c:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj",
+        "projectUniqueName": "c:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj",
         "projectName": "ThamiresGodoy",
-        "projectPath": "C:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj",
+        "projectPath": "c:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\ThamiresGodoy.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\obj\\",
+        "outputPath": "c:\\Dev\\AuthApi\\Blog-Backend---Thamires-Godoy\\ThamiresGodoy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
