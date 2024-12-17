@@ -1,0 +1,6 @@
+@ThamiresGodoy_HostAddress = http://localhost:5098
+
+GET {{ThamiresGodoy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
