@@ -6,7 +6,6 @@ public class DadosController : ControllerBase
     [HttpGet("v1/dados")]
     public IActionResult GetDados()
     {
-
         var dados = new
         {
             Name = "Primor Estética",
